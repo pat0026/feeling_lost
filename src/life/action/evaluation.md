@@ -1,10 +1,10 @@
 # Evaluation
 
-Ngayon na aware ka sa nararamdaman mo. Ang kasunod mong gawin ay i-revaluate yung current state mo. In means of kung ano ginagawa mo araw araw, anong mga habits meron ka at kung paano mo din ginagawa ang mga bagay na ito.
+Ngayon na aware ka sa nararamdaman mo. Ang kasunod mong gawin ay i-reevaluate yung current state mo. In means of kung ano ginagawa mo araw araw, anong mga habits meron ka at kung paano mo din ginagawa ang mga bagay na ito.
 
-I-revaluate mo yung choices mo na ginawa ngayong araw. Kahit mag focus ka lang muna sa araw na ito. Wag mo na muna isipin ang mga nakaraan mong ginagawa.
+I-reevaluate mo yung choices mo na ginawa ngayong araw. Kahit mag focus ka lang muna sa araw na ito. Wag mo na muna isipin ang mga nakaraan mong ginagawa.
 
-You could revaluate your choices in the following list:
+You could reevaluate your choices in the following list:
 - [ ] Does this help you to enhance your skills?
 - [ ] Does this help reach your long-term goals?
 - [ ] Does this help you uplift your feelings in the long run?
